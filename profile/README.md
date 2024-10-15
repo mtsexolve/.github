@@ -9,15 +9,14 @@
 
 ### Готовые сборки для экспресс-тестирования на различных платформах
 
-> ### Голосовые вызовы
->
-> Реализуйте возможность исходящих и входящих звонков в своем приложении
-> 
-> [[Web SDK]
-[[iOS SDK](ios-voice-demo)]
-[[Android SDK](android-voice-demo)]
-[[React native](react-native-voice-demo)]
-[[Flutter](flutter-voice-demo)]
+### Голосовые вызовы
+Протестируйте исходящие и входящие звонки выбрав подходящую вам платформу
+
+[[Web SDK]
+[[iOS SDK](https://github.com/mtsexolve/ios-voice-demo)]
+[[Android SDK](https://github.com/mtsexolve/android-voice-demo)]
+[[React native](https://github.com/mtsexolve/react-native-voice-demo)]
+[[Flutter](https://github.com/mtsexolve/flutter-voice-demo)]
 <!--
 
 **Here are some ideas to get you started:**
