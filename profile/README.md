@@ -14,10 +14,10 @@
 > Реализуйте возможность исходящих и входящих звонков в своем приложении
 > 
 > [[Web SDK]
-[[iOS SDK](ios-voice-demo)
-[[Android SDK](android-voice-demo)
-[[React native](react-native-voice-demo)
-[[Flutter](flutter-voice-demo)
+[[iOS SDK](ios-voice-demo)]
+[[Android SDK](android-voice-demo)]
+[[React native](react-native-voice-demo)]
+[[Flutter](flutter-voice-demo)]
 <!--
 
 **Here are some ideas to get you started:**
