@@ -6,6 +6,15 @@
 - Изучеите [документацию](https://docs.exolve.ru/) с примерами кода
 - Обсудите идеи с единомышленниками в [комьюнити разработчиков](https://community.exolve.ru/)
 - Или обратитесь за помощью в [техподдержку](https://t.me/helpexolve_bot) 
+
+###Готовые сборки для экспресс-тестирование на различных платформах
+
+> ### Голосовые вызовы
+> [Web SDK]
+> [iOS SDK] - ios-voice-demo
+> [Android SDK] - android-voice-demo
+> [React native] - react-native-voice-demo
+> [Flutter] - flutter-voice-demo
 <!--
 
 **Here are some ideas to get you started:**
