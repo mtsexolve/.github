@@ -11,7 +11,7 @@
 ### Готовые сборки для экспресс-тестирования голосовых вызовов
 > Протестируйте исходящие и входящие звонки выбрав подходящую вам платформу
 > 
-> [ Web SDK ]
+> [ Web SDK ](https://github.com/mtsexolve/web-voice-sdk)
 [[ iOS SDK ](https://github.com/mtsexolve/ios-voice-demo)]
 [[ Android SDK ](https://github.com/mtsexolve/android-voice-demo)]
 [[ React native ](https://github.com/mtsexolve/react-native-voice-demo)]
